@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
+
+
+/* login button and create account button */
+.btn {
+  color: #788AA3;
+  background-color: #B2C9AB;
+  border-radius: 4px;
+  width: 200px;
+  height: 20px;
+  position: relative;
+  top: 400px;
+  left: 180px;
+  border: #788AA3;
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  border-style: solid;
+  border-width: 1px;
+}
+/* LOGO START */
+.capitalO {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: #B2C9AB;
+  position: relative;
+  display: inline;
+  font-size: 80px;
+}
+.capitalV {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: #92A8C7;
+  position: relative;
+  left: -7px;
+  display: inline;
+  font-size: 80px;
+}
+.capitalV2nd {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: #788AA3;
+  position: relative;
+  left: -34px;
+  display: inline;
+  font-size: 80px;
+}
+
+.capitalLetters{
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  color: #B2C9AB;
+  position: relative;
+  display: inline;
+  font-size: 80px;
+  left: -40px;
+}
+/*LOGO END*/
